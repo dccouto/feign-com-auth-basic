@@ -1,1 +1,1 @@
-# feign-com-auth-basic
+# Exemple of feign with SpringBoot 
